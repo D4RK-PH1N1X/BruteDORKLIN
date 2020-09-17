@@ -10,5 +10,5 @@ How to run-
 
 Now if you want to make password list,then type-
 
-# python3 Dorklin.py
+# python3 DORK.py
 
