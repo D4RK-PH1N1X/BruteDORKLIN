@@ -131,11 +131,5 @@ def PBF(banner):
     p.write(cnl+"888" "\n")
     p.write(cnl+"999" "\n")
     p.write(pn+"\n")
-    fni=input("Do you want Brute Force right now:")
-    if "y" == fni:
-        print("Copy it /data/data/com.termux/files/home/DORKLIN/"+fnn)
-        time.sleep(10)
-        os.system("python3 fbbrute.py")
-    else:
-        print("Passlist are created on PyPass as",fn+".txt")
+
 PBF(banner)
