@@ -10,8 +10,5 @@ How to run-
 
 Now if you want to make password list,then type-
 
-# python3 DORKLIN.py
+# python3 Dorklin.py
 
-If you want to Run Bruteforce Attack,then type-
-
-# python3 fbbrute.py
