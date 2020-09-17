@@ -15,5 +15,5 @@ $Yellow| (____)|| (___) || (_____ | (_____ | (____)| \ (_) /
 $Yellow| (      | (   ) |      ) |      ) || (         ) (
 $Red| )      | )   ( |/\____) |/\____) || )         | |
 $Red|/       |/     \|\_______)\_______)|/          \_/ $Red v1.0"
-echo -e "$Yellow Created by$Red DarkPhinix"
+echo -e "$Yellow Created by$Red Farzi"
 
