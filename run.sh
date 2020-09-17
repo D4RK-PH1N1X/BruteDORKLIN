@@ -18,5 +18,5 @@ pip install request
 
 pip install colorama
 chmod +x *
-python3 DORKLIN
+python3 DORK.py
 echo "Installing finished..."
